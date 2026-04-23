@@ -1,6 +1,6 @@
 import { ethers } from "https://cdn.jsdelivr.net/npm/ethers@6.14.3/+esm";
 
-const CONTRACT_ADDRESS = "0x41b874b06735d5833e5D44dD1d98FcF7E46e4977";
+const CONTRACT_ADDRESS = "0x6807B8D9359E9AD03931715054b4d1500d3B2348";
 const RPC_URL = "https://base-sepolia-testnet.skalenodes.com/v1/jubilant-horrible-ancha";
 const STREAM_ID = 1n;
 const EVENT_SCAN_FROM_BLOCK = 1623931;
